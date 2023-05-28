@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://haozihhr.github.io/static/image/ClickBefore.png';
+var url = 'https://haozihhr.github.io/eatsadepa/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
